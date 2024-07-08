@@ -1,0 +1,30 @@
+#header{
+    background-color: bisque;
+}
+
+#flex-container{
+    display: flex;
+}
+#side{
+    flex: 35%;
+    background-color:#F8DF9D;
+}
+#main{
+    flex:50%;
+    background-color: ;
+}
+#footer{
+    background-color: black;
+    color:#F8DF9D;
+}
+#address{
+    background-color: blue;
+}
+#side{
+    background-color: darkgrey;
+    justify-content: space-between;
+}
+#q{
+    color: maroon;
+    
+}
